@@ -10,4 +10,5 @@
 4. Source of Dataset: From Pw Skill 
 5. Demo Images:
 Showing how the dashboard looks like-
-(https://github.com/Debanjan09101999/Global-Dataset-Sales-Analyse-in-Power-Bi/blob/main/Capture%20in%20Power%20Bi.png)
+![Alt Text](https://github.com/Debanjan09101999/Global-Dataset-Sales-Analyse-in-Power-Bi/blob/main/Capture%20in%20Power%20Bi.png)
+
